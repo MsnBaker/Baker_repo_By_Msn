@@ -1,0 +1,1 @@
+print ("I add new file v6.py")
